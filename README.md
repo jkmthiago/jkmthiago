@@ -5,7 +5,7 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 
 ## 🛠️ Tecnologias e Ferramentas  
 - 🔹 Linguagens:**Go, JavaScript, Python, C++ (Hardware)**
-<div style="display: flex; flex-direction: row;padding-left: 10px;">
+<div style="display: flex; flex-direction: row; margin-left: 10px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
@@ -17,8 +17,8 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 
 - 🔧 Frameworks e Ferramentas: **Vue, Docker, Git**
 
-<div style="display: flex; flex-direction: row;">
-  <img style="padding-left: 20px;" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+<div style="display: flex; flex-direction: row; margin-left: 10px">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />  
 </div>
