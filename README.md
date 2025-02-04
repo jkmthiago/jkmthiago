@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ef06c03-2bf0-4d87-841e-d3c93263bea0)# 💻 Olá! Eu sou Thiago 👋
+# 💻 Olá! Eu sou Thiago, ou JKM 👋
 
 ## 🚀 Sobre mim
 Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em **PostgreSQL**. Trabalho na construção de aplicações eficientes, automações e manipulação de dados em alta escala.
@@ -6,7 +6,7 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 ## 🛠️ Tecnologias e Ferramentas  
 - 🔹 Linguagens:**Go, JavaScript, Python, C++ (Hardware)**
 <div style=""display: flex; flex-direction: row;>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
+  <img style="padding-left: 20px;" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40" />
@@ -16,9 +16,12 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
 
 - 🔧 Frameworks e Ferramentas: **Vue, Docker, Git**
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+
+<div style=""display: flex; flex-direction: row;>
+  <img style="padding-left: 20px;" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />  
+</div>
 
 - ☁️ Cloud: **AWS**
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
