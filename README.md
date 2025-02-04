@@ -5,7 +5,7 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 
 ## 🛠️ Tecnologias e Ferramentas  
 - 🔹 Linguagens:**Go, JavaScript, Python**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="width=25%; height=25%"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 - 🗄️ Banco de dados: **PostgreSQL, SQL**
