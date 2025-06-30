@@ -1,5 +1,11 @@
 # 💻 Olá! Eu sou Thiago, ou JKM 👋
 
+<div>
+<a href="https://github.com/jkmthiago">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkmthiago&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jkmthiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 ![snake svg](./dist/snake-dark.svg?palette=github-dark)
 
 
@@ -45,9 +51,3 @@ Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em *
 🔸 Apaixonado por desafios e soluções eficientes.  
 
 ---
-
-<div>
-<a href="https://github.com/jkmthiago">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkmthiago&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jkmthiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
