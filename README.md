@@ -1,6 +1,6 @@
 # 💻 Olá! Eu sou Thiago, ou JKM 👋
 
-![Snake animation](https://github.com/jkmthiago/jkmthiago/blob/output/github-contribution-grid-snake.svg)
+![snake svg](./dist/snake-dark.svg?palette=github-dark)
 
 
 ## 🚀 Sobre mim
