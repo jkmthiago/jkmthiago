@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor especializado em **Go, JavaScript e Python**, com foco em **PostgreSQL**. Trabalho com automações, dados e aplicações escaláveis.
+Sou um desenvolvedor especializado em **Go, JavaScript**, com foco em **Desenvolvimento de Sistemas Completos**, desde sua base a sua apresentação ao cliente final. Trabalho com automações, dados e aplicações escaláveis e atualmente no desenvolvimento de Agentes de IA utilizando LLMs.
 
 ## 🛠️ Tecnologias e Ferramentas
 
