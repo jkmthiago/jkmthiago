@@ -9,33 +9,95 @@
 
 ![snake svg](./dist/snake-dark.svg?palette=github-dark)
 
-## 🚀 Sobre mim
+---
 
-Sou um desenvolvedor especializado em **Go, JavaScript**, com foco em **Desenvolvimento de Sistemas Completos**, desde sua base a sua apresentação ao cliente final. Trabalho com automações, dados e aplicações escaláveis e atualmente no desenvolvimento de Agentes de IA utilizando LLMs.
+# 🚀 Sobre mim
 
-## 🛠️ Tecnologias e Ferramentas
+Sou desenvolvedor especializado em **Go(Linguagem Primária) e JavaScript (Linguagem Secundária)**, com foco em **Desenvolvimento de Sistemas Completos**, automações e aplicações escaláveis.
 
-- 🔹 **Linguagens:** Go, JavaScript, Python, C++ (Hardware)
-- 🗄️ **Banco de dados:** PostgreSQL, SQL
-- 🔧 **Frameworks e Ferramentas:** Vue, Docker, Git
-- ☁️ **Cloud:** AWS
-- 📊 **Relatórios e Dados:** Jaspersoft, SQL avançado
+Atualmente trabalho com:
 
-## 📌 Projetos em destaque
+- 🤖 Agentes de IA utilizando LLMs
+- 🔎 Sistemas com RAG (Retrieval-Augmented Generation)
+- 🔧 Automação de infraestrutura e processos
+- ⚡ APIs performáticas em Go
+- 📊 Processamento e análise de dados
 
-🔹 **[DevBook](https://github.com/jkmthiago/devbook)** – Rede social para desenvolvedores com postagens e curtidas.
-🔹 **[Rag Exemple](https://github.com/jkmthiago/rag_example)** – API em Go que implementa um fluxo de RAG para ingestão, vetorização de documentos e recuperação de contexto para gerar respostas mais precisas com LLMs.
-🔹 **[MCP Exemple](https://github.com/jkmthiago/mcp-golang)** – Exemplo de Criação de um servidor MCP em GO.
-🔹 **[Space_Health_Check](https://github.com/jkmthiago/space_health_check)** – Monitor de saúde de recursos do servidor Linux, escrito em Go.
+Meu foco é criar **soluções eficientes, escaláveis e bem estruturadas**, desde o backend até a integração com o cliente final.
 
-## 📫 Como me encontrar
+---
 
-📧 Email: [thiago-eleuterio@hotmail.com](mailto:thiago-eleuterio@hotmail.com)  
-🔗 LinkedIn: [linkedin.com/in/jkmthiago](https://www.linkedin.com/in/jkmthiago)  
-🐙 GitHub: [github.com/jkmthiago](https://github.com/jkmthiago)
+# 🛠️ Tecnologias e Ferramentas
 
-## ⚡ Curiosidades
+## 🔹 Linguagens
 
-- 🔥 Sempre aprendendo novas tecnologias e testando ideias.
-- 🧠 Gosto de resolver problemas complexos com soluções simples.
-- 🎯 Foco em código limpo, eficiente e bem estruturado.
+- Go (Backend, Automação, APIs, IA, MCP, RAG)
+- JavaScript (Node.js / Vue / NodeRED)
+- C++ (Hardware / Embedded)
+
+## 🗄️ Banco de Dados
+
+- PostgreSQL
+
+## 🔧 Frameworks & Ferramentas
+
+- Vue.js
+- Docker
+- Git
+- Chromedp
+- REST APIs
+- Node RED
+
+## ☁️ Cloud & Infraestrutura
+
+- Linux
+- Containers
+
+## 📊 Dados & Relatórios
+
+- Jaspersoft
+- SQL Avançado
+
+---
+
+# 📌 Projetos em destaque
+
+### 🔹 DevBook  
+https://github.com/jkmthiago/devbook  
+Rede social para desenvolvedores com postagens e curtidas.
+
+### 🔹 RAG Example  
+https://github.com/jkmthiago/rag_example  
+API em Go que implementa fluxo de **RAG**, ingestão, vetorização e recuperação de contexto para LLMs.
+
+### 🔹 MCP Example  
+https://github.com/jkmthiago/mcp-golang  
+Servidor MCP em Go para integração com agentes de IA.
+
+### 🔹 Space Health Check  
+https://github.com/jkmthiago/space_health_check  
+Monitor de saúde de servidores Linux escrito em Go.
+
+---
+
+# 🔬 Atualmente trabalhando em
+
+- 🤖 Agentes de IA com LLM
+- 🔗 Integração com MCP Servers
+- ⚙️ Automação de infraestrutura
+
+---
+
+# 📫 Como me encontrar
+
+📧 Email: thiago-eleuterio@hotmail.com  
+🔗 LinkedIn: https://linkedin.com/in/jkmthiago  
+🐙 GitHub: https://github.com/jkmthiago  
+
+---
+
+# ⚡ Curiosidades
+
+- 🔥 Sempre aprendendo novas tecnologias
+- 🧠 Resolver problemas complexos com soluções simples
+- 🎯 Foco em código limpo, eficiente e bem estruturado
