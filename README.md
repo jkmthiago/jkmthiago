@@ -24,6 +24,9 @@ Sou um desenvolvedor especializado em **Go, JavaScript**, com foco em **Desenvol
 ## 📌 Projetos em destaque
 
 🔹 **[DevBook](https://github.com/jkmthiago/devbook)** – Rede social para desenvolvedores com postagens e curtidas.
+🔹 **[Rag Exemple](https://github.com/jkmthiago/rag_example)** – API em Go que implementa um fluxo de RAG para ingestão, vetorização de documentos e recuperação de contexto para gerar respostas mais precisas com LLMs.
+🔹 **[MCP Exemple](https://github.com/jkmthiago/mcp-golang)** – Exemplo de Criação de um servidor MCP em GO.
+🔹 **[Space_Health_Check](https://github.com/jkmthiago/space_health_check)** – Monitor de saúde de recursos do servidor Linux, escrito em Go.
 
 ## 📫 Como me encontrar
 
