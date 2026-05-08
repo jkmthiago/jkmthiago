@@ -27,5 +27,5 @@ jobs:
           message: "🌀 Atualizando animação da cobrinha"
           add: "dist/*.svg"
           default_author: github_actions
-          branch: output          # branch separada pra não bagunçar a main
+          branch: out          # branch separada pra não bagunçar a main
           push: origin output --force
